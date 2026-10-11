@@ -1,3 +1,5 @@
+# FULLY VIBECODED I AM NOT RESPONSIBLE FOR ANYTHING THAT HAPPENS WHILE USING APP
+
 # Icon Changer
 
 A small PyQt6 app for CachyOS / Arch (and any other Linux desktop) that lets you
